@@ -1,5 +1,7 @@
 # PROJECT-1
 # HEART-FAILURE-PROJECT
+Presentation Link-----> (https://docs.google.com/presentation/d/18OQWZcIMS7b0rNSevu4fI80DPjfZl5zpdrqXP4D-blM/edit?usp=sharing)
+Dashbord Link-------> (https://public.tableau.com/app/profile/ian.moire/viz/ExploringKeyIndicatorsinPatientswithHeartFailure/ExploringKeyIndicatorsinPatientswithHeartFailure)
 
 # Heart Failure Clinical Records Analysis
 
